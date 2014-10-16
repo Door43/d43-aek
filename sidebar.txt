@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[aek:home|Door43 (aek)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-aek|d43-aek repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-aek/archive/master.zip|d43-aek.zip]]
+
+**Recent Changes**
+{{changes>ns = aek}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/aek|Ethnologue data]]
+
